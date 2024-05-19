@@ -2,53 +2,34 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+---
 
 # Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+[📕Clique aqui para ler](./assets/Aumente-sua-Produtividade-como-Desenvolvedor-Nodejs-com-o-ChatGPT.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ChatGPT](https://chat.openai.com/)
+- [Gamma App](https://gamma.app/)
 
 ## 🧠 Prompts
 
-
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto "importancia da IA no dia a dia de um programador tendo a IA como aliada da produtividade"                                                                                                                                                                                                                                                                       |
+| conteúdo | Comporte-se como um escritor de ebooks tech escreva topicos atendendo as regras abaixo{REGRAS}> no maximo 4 linhas por blocos de explicação> me explique de maneira informal, como se eu fosse um desenvolvedor de software pleno e deixe o texto enxuto> os blocos que serão criados estao abaixoComo utilizar os 03 principais recursos do chatpgt para melhorar a produtividade de um desenvolvedor javascript nodejs |
 
+Gamma App
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  Ação  | prompt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| título | Como desenvolvedor Node.js, você provavelmente já encontrou desafios que podem atrasar seu progresso ou tornar seu trabalho mais repetitivo do que gostaria. Felizmente, o ChatGPT pode ser um aliado poderoso para aumentar sua produtividade. Neste ebook, vou te mostrar como utilizar três recursos principais do ChatGPT para automatizar tarefas, solucionar problemas e aprimorar continuamente suas habilidades de desenvolvimento. Vamos lá!Automatização de Tarefas Repetitivas Use o ChatGPT para automatizar tarefas repetitivas, como escrever funções utilitárias, gerar templates de código ou scripts de configuração. Basta descrever a tarefa que você quer automatizar e o ChatGPT pode gerar o código base, economizando tempo e reduzindo o tédio de escrever as mesmas coisas repetidamente.Debugging e Solução de Problemas Descreva o problema ou cole trechos de código problemáticos no ChatGPT. Ele pode ajudar a identificar erros comuns, sugerir correções e até explicar conceitos que podem estar dificultando a solução do problema. É como ter um par de olhos extra para revisar seu código sem precisar esperar por um colega.Aprendizado e Melhoria Contínua ChatGPT é ótimo para aprender novos conceitos e técnicas de desenvolvimento em Node.js. Pergunte sobre novos frameworks, melhores práticas ou mesmo detalhes específicos de APIs. Isso pode te ajudar a manter-se atualizado com as tendências do mercado e a melhorar continuamente suas habilidades de desenvolvimento.Conclusão Incorporar ChatGPT no seu fluxo de trabalho pode aumentar significativamente sua produtividade. Seja automatizando tarefas chatas, ajudando com debugging ou sendo uma fonte de aprendizado constante, essas ferramentas podem fazer uma grande diferença no dia a dia de um desenvolvedor Node.js. |
 
 ## ✨ Features
 
@@ -63,30 +44,3 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
